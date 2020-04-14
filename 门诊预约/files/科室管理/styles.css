@@ -452,7 +452,7 @@
   border-width:0px;
   position:absolute;
   left:64px;
-  top:106px;
+  top:107px;
   width:256px;
   height:61px;
   font-family:'Microsoft YaHei Regular', 'Microsoft YaHei';
@@ -1594,8 +1594,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:397px;
-  height:22px;
+  width:235px;
+  height:110px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -1611,8 +1611,8 @@
   position:absolute;
   left:1504px;
   top:532px;
-  width:397px;
-  height:22px;
+  width:235px;
+  height:110px;
   font-size:18px;
   color:#FF0000;
 }
@@ -1621,7 +1621,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:397px;
+  width:235px;
   white-space:nowrap;
 }
 #u270_img {
